@@ -1,0 +1,26 @@
+{
+  "name": "generate-json-schema",
+  "version": "1.0.0",
+  "description": "Auto Generate Json Schema For #Draft-07#",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhaoqize/generate-json-schema.git"
+  },
+  "keywords": [
+    "schema",
+    "json"
+  ],
+  "author": "zhaoqize",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhaoqize/generate-json-schema/issues"
+  },
+  "homepage": "https://github.com/zhaoqize/generate-json-schema#readme",
+  "dependencies": {
+    "type-of-is": "^3.5.1"
+  }
+}
